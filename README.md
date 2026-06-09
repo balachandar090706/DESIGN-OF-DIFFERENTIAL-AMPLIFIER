@@ -43,8 +43,11 @@ Differential amplifier
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-28 at 20 20 21_7a472dd5](https://github.com/user-attachments/assets/07c43663-d500-4ece-8743-581bd0f90802)
 
 ## GRAPH:
 
+![WhatsApp Image 2025-11-28 at 20 20 42_00805d9a](https://github.com/user-attachments/assets/4720e691-ada2-4231-ba34-b41207b3150a)
 
 ## RESULT:                   
+Thus the Differential amplifier was designed and their performance was successfully tested using op-amp 741
